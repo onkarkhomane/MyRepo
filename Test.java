@@ -2,7 +2,7 @@
 public class Test {
 
 	public static void main(String args[]) {
-		String messageReferenceNumber = "20221109MMQFMC21000003";
+		String messageReferenceNumber = "20221109MMQFMC21000089";
 		StringBuilder ackMessage = new StringBuilder();
 		ackMessage.append("                 FTFR1200000018")
 		.append(messageReferenceNumber.substring(4, 8)) //MMDD 5-8 chars
