@@ -16,7 +16,11 @@ public class Test {
 	
 	void bubblesort(){
 		//
+<<<<<<< HEAD
 		
+=======
+		sjdhk
+>>>>>>> quicksort
 	}
 
 
