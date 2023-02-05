@@ -1,29 +1,6 @@
 
 public class Test {
 	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	void bubblesort(){
-		//
-<<<<<<< HEAD
-		
-=======
-		sjdhk
->>>>>>> quicksort
-	}
-
-
 	public static void main(String args[]) {
 		String messageReferenceNumber = "20221109MMQFMC21000089";
 		StringBuilder ackMessage = new StringBuilder();
