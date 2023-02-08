@@ -1,9 +1,7 @@
 
 public class Test {
 	
-	void quicksort(){
-		//
-		sjdhk
+	This is Onkar khomane. 
 	}
 
 	public static void main(String args[]) {
